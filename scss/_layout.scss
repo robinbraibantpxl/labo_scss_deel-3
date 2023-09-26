@@ -69,4 +69,13 @@
             }
         }
     }
+
+}
+
+.gallery {
+    .cards-wrapper {
+        display: flex;
+        flex-wrap: wrap;
+        background-color: $color-white;
+    }
 }
