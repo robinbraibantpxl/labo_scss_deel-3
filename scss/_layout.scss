@@ -15,8 +15,8 @@
     }
 
     &-banner {
-        text-align: center;
         @include positioning(50%);
+        text-align: center;
     }
 }
 
